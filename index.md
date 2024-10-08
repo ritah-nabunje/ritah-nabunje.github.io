@@ -1,5 +1,5 @@
-![Profile Picture](./profile.jpg)  
-Welcome to my Bio page!  
+## Welcome to my Bio page! 
+<img src="./profile.jpg" alt="Profile Picture" width="200" />  
 
 ## About Me
 Hello! I am Ritah Nabunje, a PhD student at the University of Leicester. I specialise in the genetics of different populations with a focus on pulmonary fibrosis. I have a keen interest in translational and implementation science, aiming to bridge the gap between genomics research and clinical application.
