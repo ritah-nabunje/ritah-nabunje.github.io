@@ -1,0 +1,31 @@
+# Site settings
+title: "Ritah's Bio"  
+description: "A brief overview of my research, interests, and work in genomics and public health."
+baseurl: "" 
+url: "https://ritah-nabunje.github.io"  
+
+# Theme 
+theme: jekyll-theme-tactile  
+
+author:
+  name: "Ritah Nabunje"
+  email: "rn180@leicester.ac.uk"
+  linkedin: "https://www.linkedin.com/in/ritah-nabunje/"  
+
+# Social media
+social:
+  twitter_username: ritah_nabunje
+  github_username: ritah-nabunje
+
+# Build settings
+markdown: kramdown  # Markdown engine 
+highlighter: rouge  # Syntax highlighter for code snippets
+
+# Plugins
+plugins:
+  - jekyll-feed   # RSS feed 
+  - jekyll-seo-tag  # SEO-friendly tags
+
+# Pagination 
+paginate: 5
+paginate_path: "/page:num/"
