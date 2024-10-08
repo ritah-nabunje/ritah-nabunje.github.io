@@ -17,3 +17,6 @@ I want to be involved in global health policy development and work on translatin
 
 ## Contact Me
 Feel free to reach out via [rn180@leicester.ac.uk](mailto:rn180@leicester.ac.uk) 
+
+[Research](./research.md)
+[Interests](./interests.md)
