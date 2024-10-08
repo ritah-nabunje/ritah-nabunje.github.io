@@ -5,7 +5,7 @@
   
   <div>
     <h2>About Me</h2>
-    <p>I am <strong>Ritah Nabunje</strong>, a PhD student at the University of Leicester. I specialise in the genetics of different populations with a focus on pulmonary fibrosis. I have a keen interest in translational and implementation science, aiming to bridge the gap between genomics research and clinical application.</p>
+    <p>I am <strong>Ritah Nabunje</strong>, a PhD student at the University of Leicester, UK. I specialise in the genetics of different populations with a focus on pulmonary fibrosis. I have a keen interest in translational and implementation science, aiming to bridge the gap between genomics research and clinical application.</p>
   </div>
 </div>
 
