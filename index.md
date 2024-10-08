@@ -9,9 +9,6 @@
   </div>
 </div>
 
-## About Me
-Hello! I am Ritah Nabunje, 
-
 ## Research Interests
 - Population genetics
 - Polygenic and proteomic risk scores
