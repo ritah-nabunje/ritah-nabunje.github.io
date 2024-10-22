@@ -5,9 +5,9 @@
   
   <div>
     <h2>About Me</h2>
-    <p>I am <strong>Ritah Nabunje</strong>, a PhD student at the University of Leicester, UK. My research focuses on understanding how genetic variations contribute to risk for pulmonary fibrosis across diverse populations.  
-      I have a keen interest in translational and implementation science, aiming to bridge the gap between genomics research and its clinical applications to improve patient outcomes.  
-    I am also passionate about genomics policy and advocacy, working to promote equitable access to genomic medicine and enhance its integration into healthcare systems, especially in underrepresented populations.</p>
+    <p>I am <strong>Ritah Nabunje</strong>, a PhD student at the University of Leicester, UK. My research focuses on understanding how genetic variations contribute to risk for pulmonary fibrosis across diverse populations.</p>  
+      </p>I have a keen interest in translational and implementation science, aiming to bridge the gap between genomics research and its clinical applications to improve patient outcomes.</p>  
+    </p>I am also passionate about genomics policy and advocacy, working to promote equitable access to genomic medicine and enhance its integration into healthcare systems, especially in underrepresented populations.</p>
   </div>
 </div>
 
