@@ -2,7 +2,7 @@
   
 <div style="display: flex; align-items: center;">
   <img src="./profile.jpg" alt="Profile Picture" width="150" style="margin-right: 20px;" />
-</div>
+
   <div>
   <h2>About Me</h2>
   <p>
@@ -14,7 +14,7 @@
   <p>
     I am also passionate about genomics policy and advocacy, and I am actively seeking opportunities to engage in these areas. I hope to promote equitable access to genomic medicine and support its integration into healthcare systems, especially for underrepresented populations.
   </p>
-</div>
+  </div>
 </div>
 
 
