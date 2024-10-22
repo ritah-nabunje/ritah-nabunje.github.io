@@ -20,10 +20,12 @@
 - Public health genomics
 
 ## Current Work
-I am currently working on understanding the genetic predisposition to pulmonary fibrosis across different populations. 
+I am currently studying the genetic predisposition to pulmonary fibrosis, with a focus on understanding how genetic variations contribute to disease risk across diverse populations. My work also explores the generalisability of reported pulmonary fibrosis-associated genetic variants in different population groups.  
+
+The aim of my research is to improve our understanding of disease mechanisms and inform the development of effective interventions for all patients.. 
 
 ## Looking Ahead
-I want to be involved in global health policy development and work on translating genomic medicine into diverse clinical settings.
+In the future, I aim to contribute to global health policy, specifically in integrating genomics into healthcare systems worldwide. I am particularly interested in the translation of genomic research into clinical applications, advocating for equitable access to genomic medicine, and ensuring that underrepresented populations benefit from these advancements. I am actively seeking opportunities to engage in genomics policy and advocacy to bridge the gap between research and real-world implementation.
 
 ## Contact Me
 Feel free to reach out via [rn180@leicester.ac.uk](mailto:rn180@leicester.ac.uk) 
