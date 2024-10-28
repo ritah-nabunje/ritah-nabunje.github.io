@@ -20,7 +20,6 @@
 
 ## Research Interests
 - Population genetics
-- Polygenic and proteomic risk scores
 - Genomic medicine
 - Public health genomics
 
@@ -30,7 +29,9 @@ I am currently studying the genetic predisposition to pulmonary fibrosis, with a
 The aim of my research is to improve our understanding of disease mechanisms and inform the development of effective interventions for all patients. 
 
 ## Looking Ahead
-In the future, I aim to contribute to global health policy, specifically in integrating genomics into healthcare systems worldwide. I am particularly interested in the translation of genomic research into clinical applications, advocating for equitable access to genomic medicine, and ensuring that underrepresented populations benefit from these advancements.  
+I am particularly interested in the translation of genomic research into clinical applications, advocating for equitable access to genomic medicine, and ensuring that underrepresented populations benefit from these advancements.
+
+In the future, I aim to contribute to global health, specifically in integrating genomics into healthcare systems worldwide. 
 
 I am actively seeking opportunities to engage in genomics policy and advocacy to bridge the gap between research and real-world implementation.
 
@@ -38,5 +39,5 @@ I am actively seeking opportunities to engage in genomics policy and advocacy to
 Feel free to reach out via [rn180@leicester.ac.uk](mailto:rn180@leicester.ac.uk) 
 
 ### See more  
-[Academic and Proffesional Background](./background.md)  
+[Academic and Professional Background](./background.md)  
 [Areas of Interest](./interests.md)
