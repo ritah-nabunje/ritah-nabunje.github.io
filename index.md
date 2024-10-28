@@ -38,5 +38,5 @@ I am actively seeking opportunities to engage in genomics policy and advocacy to
 Feel free to reach out via [rn180@leicester.ac.uk](mailto:rn180@leicester.ac.uk) 
 
 ### See more  
-[My Research](./research.md)  
+[Academic and Proffesional Background](./research.md)  
 [Areas of Interest](./interests.md)
