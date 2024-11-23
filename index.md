@@ -2,6 +2,9 @@
   
 <div style="display: flex; align-items: center;">
   <img src="./profile.jpg" alt="Profile Picture" width="150" style="margin-right: 20px;" />
+  <p>
+    PhD Student at University of Leicester
+  </p>
 
   <div>
   <h2>Biography</h2>
@@ -12,7 +15,11 @@
    I am passionate about translational and implementation science, striving to bridge the gap between genomics research and clinical practice to improve patient outcomes. I am particularly dedicated to advancing equitable access to genomic medicine and ensuring its integration into healthcare systems worldwide, with a strong emphasis on underrepresented populations. 
   </p>
   <p>
-    Beyond my research, I actively seek opportunities to contribute to genomics policy and advocacy. I am committed to supporting initiatives that promote diversity and inclusion in genomics while addressing the unique challenges of implementing genomic medicine in resource-limited settings. My goal is to play a role in global efforts to deliver precision medicine for all populations, irrespective of genetic ancestry or geographic location. 
+    Beyond my research, I actively seek opportunities to contribute to genomics policy and advocacy. I am committed to supporting initiatives that promote diversity and inclusion in genomics while addressing the unique challenges of implementing genomic medicine in resource-limited settings.  
+    My goal is to play a role in global efforts to deliver precision medicine for all populations, irrespective of genetic ancestry or geographic location. 
+  </p>
+  <p>
+    In my spare time, I play badminton and enjoy exploring nature by bike.
   </p>
   </div>
 </div>
