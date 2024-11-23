@@ -3,13 +3,13 @@
 <div style="display: flex; align-items: center;">
   <img src="./profile.jpg" alt="Profile Picture" width="150" style="margin-right: 20px;" />
   <p>
-    PhD Student at University of Leicester
+    PhD Student at University of Leicester, UK
   </p>
 
   <div>
   <h2>Biography</h2>
   <p>
-    I am a PhD student at the University of Leicester, UK, where my research focuses on how genetic variations influence the risk of pulmonary fibrosis across diverse populations. My work aims to identify both shared and unique genetic contributors to this complex disease, with a focus on addressing disparities in genomic research representation. 
+    My research focuses on how genetic variations influence the risk of pulmonary fibrosis across diverse populations. My work aims to identify both shared and unique genetic contributors to this complex disease, with a focus on addressing disparities in genomic research representation. 
   </p>
   <p>
    I am passionate about translational and implementation science, striving to bridge the gap between genomics research and clinical practice to improve patient outcomes. I am particularly dedicated to advancing equitable access to genomic medicine and ensuring its integration into healthcare systems worldwide, with a strong emphasis on underrepresented populations. 
