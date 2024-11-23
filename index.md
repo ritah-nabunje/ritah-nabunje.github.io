@@ -1,8 +1,9 @@
 ## Ritah Nabunje 
   
 <div style="display: flex; align-items: center;">
-  <img src="./profile.jpg" alt="Profile Picture" width="150" style="margin-right: 20px;" />
-  <p> PhD Student at University of Leicester, UK </p>
+  <img src="./profile.jpg" alt="Profile Picture" width="150" style="margin-bottom: 10px;" />
+  <p style="margin: 0; font-weight: bold;">PhD Student</p>
+  <p style="margin: 0;">University of Leicester, UK</p>
 
   <div>
   <h2>Biography</h2>
