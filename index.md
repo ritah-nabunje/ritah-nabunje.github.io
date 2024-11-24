@@ -3,7 +3,8 @@
   <div style="text-align: center; margin-right: 20px;">
     <img src="./profile.jpg" alt="Profile Picture" width="150" style="margin-bottom: 10px;" />
     <p style="margin: 0; font-weight: bold;">Ritah Nabunje</p>
-    <p style="margin: 0;"> PhD Student University of Leicester, UK</p>
+    <p style="margin: 0;">PhD Student</p>
+    <p style="margin: 0;">University of Leicester, UK</p>
   </div>
 
   <!-- Biography Section -->
