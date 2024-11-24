@@ -7,6 +7,6 @@ permalink: /contact/
 # Contact
 
 Feel free to reach out to me via:
-- Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
-- Twitter: [@{{ site.social.twitter_username }}](https://twitter.com/{{ site.social.twitter_username }})
-- GitHub: [{{ site.social.github_username }}](https://github.com/{{ site.social.github_username }})
+- Email: [{{rn180@leicester.ac.uk}}](mailto:{{ rn180@leicester.ac.uk }})
+- Twitter: [@{{ https://x.com/ritah_nabunje }}](https://twitter.com/{{ x.com/ritah_nabunje }})
+- GitHub: [{{ https://github.com/ritah-nabunje }}]({{ https://github.com/ritah-nabunje }})
