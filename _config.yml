@@ -29,3 +29,17 @@ plugins:
 # Pagination 
 paginate: 5
 paginate_path: "/page:num/"
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Background"
+    url: "/background/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Interests"
+    url: "/interests/"
+  - title: "Contact"
+    url: "/contact/"
+
