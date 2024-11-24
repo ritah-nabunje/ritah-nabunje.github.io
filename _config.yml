@@ -21,19 +21,6 @@ social:
 markdown: kramdown  # Markdown engine 
 highlighter: rouge  # Syntax highlighter for code snippets
 
-# Navigation
-navigation:
-  - title: "Home"
-    url: "./"
-  - title: "Background"
-    url: "./background/"
-  - title: "Research"
-    url: "./research/"
-  - title: "Interests"
-    url: "./interests/"
-  - title: "Contact"
-    url: "./contact/"
-
 # Plugins
 plugins:
   - jekyll-feed   # RSS feed 
