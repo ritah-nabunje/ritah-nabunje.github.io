@@ -25,14 +25,14 @@ highlighter: rouge  # Syntax highlighter for code snippets
 navigation:
   - title: "Home"
     url: "/"
-  - title: "About Me"
-    url: "/index.md/"
+  - title: "Background"
+    url: "/background/"
   - title: "Research"
     url: "/research/"
   - title: "Interests"
-    url: "/interests.md/"
+    url: "/interests/"
   - title: "Contact"
-    url: "/contact.md/"
+    url: "/contact/"
 
 # Plugins
 plugins:
