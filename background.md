@@ -1,4 +1,10 @@
-## Academic and Professional Background
+---
+layout: default
+title: "Background"
+permalink: /background/
+---
+
+# My Academic and Professional Background
 My journey has been anything but linear, fuelled by curiosity and inspired by the challenges around me. Growing up in Uganda, I developed a fascination with infectious diseases, given their impact on my community. I pursued Biomedical Laboratory Technology at Makerere University, where my undergraduate project explored using essential oils to prevent mould and aflatoxin in stored grains. This work felt particularly relevant because high aflatoxin levels in grains have long limited Uganda's agricultural exports.  
 
 While working in the microbiology lab, I discovered bacteriophages - viruses that infect bacteria. One training session introduced me to the incredible world of phage hunting and genome analysis, sparking my interest in bioinformatics. The power of genomic analysis captured my attention, and after an introductory bioinformatics course, I knew I wanted to build skills in this field. A few online courses later, I was ready for hands-on experience and earned an internship at the [Uganda Virus Research Institute](https://www.uvri.go.ug/) (UVRI) with the [H3ABioNet node](https://www.h3abionet.org/nodes/uvri). Supported by [MUII-Plus](https://www.muii.org.ug/) funding, my internship expanded to a full year, where I participated in bioinformatics training, developed analysis pipelines, and contributed to building galaxy@UVRI, a user-friendly platform for next-generation sequencing data.  
