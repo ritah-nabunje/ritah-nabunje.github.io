@@ -24,15 +24,15 @@ highlighter: rouge  # Syntax highlighter for code snippets
 # Navigation
 navigation:
   - title: "Home"
-    url: "/"
+    url: "./"
   - title: "Background"
-    url: "/background/"
+    url: "./background/"
   - title: "Research"
-    url: "/research/"
+    url: "./research/"
   - title: "Interests"
-    url: "/interests/"
+    url: "./interests/"
   - title: "Contact"
-    url: "/contact/"
+    url: "./contact/"
 
 # Plugins
 plugins:
