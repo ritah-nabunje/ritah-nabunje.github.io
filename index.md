@@ -34,3 +34,11 @@ Feel free to reach out via [rn180@leicester.ac.uk](mailto:rn180@leicester.ac.uk)
 ### See more  
 [Academic and Professional Background](./background.md)  
 [Areas of Interest](./interests.md)
+
+<div class="social-media">
+  <a href="mailto:{{ rn180@leicester.ac.uk }}" target="_blank">Email</a> | 
+  <a href="https://x.com/{{ x.com/ritah_nabunje }}" target="_blank">Twitter</a> | 
+  <a href="https://github.com/{{ github.com/ritah-nabunje }}" target="_blank">GitHub</a> | 
+  <a href="{{ www.linkedin.com/in/ritah-nabunje }}" target="_blank">LinkedIn</a>
+</div>
+
