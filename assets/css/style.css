@@ -1,0 +1,28 @@
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  background-color: #333; /* Adjust as needed */
+  padding: 10px;
+}
+
+nav ul li {
+  margin: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+nav ul li a:hover {
+  background-color: #555; /* Adjust for hover effect */
+}
+
+.social-media a {
+  text-decoration: none;
+  margin-right: 10px;
+  color: #333;
+}
