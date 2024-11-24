@@ -26,11 +26,13 @@ navigation:
   - title: "Home"
     url: "/"
   - title: "About Me"
-    url: "/about/"
+    url: "/index.md/"
   - title: "Research"
     url: "/research/"
+  - title: "Interests"
+    url: "/interests.md/"
   - title: "Contact"
-    url: "/contact/"
+    url: "/contact.md/"
 
 # Plugins
 plugins:
