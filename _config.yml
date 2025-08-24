@@ -1,36 +1,24 @@
-# Site settings
-title: "Ritah Nabunje"  
-description: "About me"
-baseurl: "" 
-url: "https://ritah-nabunje.github.io"  
 
-# Theme 
-theme: jekyll-theme-slate  
+title: "Ritah Nabunje"
+description: "About me"
+url: "https://ritah-nabunje.github.io"
+baseurl: ""
+
+theme: jekyll-academic
 
 author:
   name: "Ritah Nabunje"
   email: "rn180@leicester.ac.uk"
-  linkedin: "https://www.linkedin.com/in/ritah-nabunje/"  
+  linkedin: "https://www.linkedin.com/in/ritah-nabunje/"
 
-# Social media
 social:
-  twitter_username: ritah_nabunje
-  github_username: ritah-nabunje
+  twitter: ritah_nabunje
+  github: ritah-nabunje
 
-# Build settings
-markdown: kramdown  # Markdown engine 
-highlighter: rouge  # Syntax highlighter for code snippets
-
-# Plugins
 plugins:
-  - jekyll-feed   # RSS feed 
-  - jekyll-seo-tag  # SEO-friendly tags
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Pagination 
-paginate: 5
-paginate_path: "/page:num/"
-
-# Navigation
 navigation:
   - title: "Home"
     url: "/"
@@ -42,4 +30,3 @@ navigation:
     url: "/interests/"
   - title: "Contact"
     url: "/contact/"
-
