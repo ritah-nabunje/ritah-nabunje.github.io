@@ -16,14 +16,13 @@ title: "Welcome"
   <div>
     <h2>Biography</h2>
     <p>
-      My research focuses on how genetic variations influence the risk of pulmonary fibrosis across diverse populations. My work aims to identify both shared and unique genetic contributors to this complex disease, with a focus on addressing disparities in genomic research representation. 
+      I’m a PhD researcher in human genomics, currently studying genetic risk for pulmonary fibrosis across diverse populations. My research has made me more aware of how gaps in data representation affect the relevance and reach of genetic findings in public health. I’m developing a strong interest in translating advances in genomics into strategies for precision public health.    
     </p>
     <p>
-      Beyond my research, I actively seek opportunities to contribute to genomics policy and advocacy. I am committed to supporting initiatives that promote diversity and inclusion in genomics while addressing the unique challenges of implementing genomic medicine in resource-limited settings.  
-      My goal is to play a role in global efforts to deliver precision medicine for all populations, irrespective of genetic ancestry or geographic location. 
+      I’m particularly drawn to science communication and policy advocacy as tools to bridge the gap between research, healthcare, and the communities they aim to serve. 
     </p>
     <p>
-      In my spare time, I play badminton and enjoy exploring nature by bike but most times on foot.
+      Badminton is my reset button. I enjoy the quick reactions and the fun energy it brings.
     </p>
   </div>
 </div>
