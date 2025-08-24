@@ -4,7 +4,6 @@ description: "About me"
 url: "https://ritah-nabunje.github.io"
 baseurl: ""
 
-theme: jekyll-academic
 
 author:
   name: "Ritah Nabunje"
