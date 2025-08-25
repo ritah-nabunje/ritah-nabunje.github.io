@@ -10,7 +10,7 @@ baseurl: ""
 
 author:
   name: "Ritah Nabunje"
-  avatar: "/profile.jpg"
+  avatar: "/assets/images/profile.jpg"
   bio: "PhD researcher in human genomics."
 
 defaults:
