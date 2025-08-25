@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Contact
-
 Feel free to reach me via:
 - Email: <rn180@leicester.ac.uk>
 
