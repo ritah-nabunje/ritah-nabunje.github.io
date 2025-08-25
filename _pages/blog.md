@@ -9,6 +9,8 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+author_profile: true
 ---
 
 Welcome to my blog! I have a few posts on various topics I find fascinating or just my experiences.
+
