@@ -1,114 +1,36 @@
-# Site settings
-locale: "en-US"
+
+remote_theme: mmistakes/minimal-mistakes
+
 title: "Ritah Nabunje"
-title_separator: "|"
-name: "Ritah Nabunje"
-description: "About me"
+description: "Genomics | Research | Advocacy"
+email: "rn180@leicester.ac.uk"
 url: "https://ritah-nabunje.github.io"
 baseurl: ""
-repository: "ritah-nabunje/ritah-nabunje.github.io"
 
-# Author settings
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
 author:
-  # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Ritah Nabunje"
-  pronouns         : "she/her"  
-  bio              : "PhD Researcher"
-  location         : "Leicester, UK"
-  employer         : "University of Leicester"
-  uri              : "https://le.ac.uk/people/ritah-nabunje"
-  email            : "rn180@leicester.ac.uk" 
-
-  # Social media
-  bluesky          : "ritahnabunje.bsky.social"
-  twitter          : "ritah_nabunje"
-  linkedin         : "ritah-nabunje"
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  name: "Ritah Nabunje"
+  avatar: "/profile.jpg"
+  bio: "PhD student studying genetic risk for pulmonary fibrosis across diverse populations."
 
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
+      type: "pages"
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
   - scope:
       path: ""
-      type: pages
+      type: "posts"
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
-
-# Mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
-
-# Pagination
-paginate: 5
-paginate_path: "/page:num/"
-
-# Theme settings
-#remote_theme: "academicpages/academicpages.github.io"
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+collections:
+  posts:
+    output: true
