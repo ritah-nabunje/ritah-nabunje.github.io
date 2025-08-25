@@ -11,7 +11,8 @@ baseurl: ""
 author:
   name: "Ritah Nabunje"
   avatar: "assets/images/profile.jpg"
-  bio: "PhD researcher"
+  bio: "PhD Researcher"
+  email: "rn180@leicester.ac.uk"
 
 defaults:
   - scope:
