@@ -3,7 +3,7 @@ plugins:
   - jekyll-include-cache
   
 title: "Ritah Nabunje"
-description: "Research, blogs, and science policy reflections"
+description: "Research, interests and reflections"
 email: "rn180@leicester.ac.uk"
 url: "https://ritah-nabunje.github.io"
 baseurl: ""
@@ -12,6 +12,7 @@ author:
   name: "Ritah Nabunje"
   avatar: "/assets/images/profile.jpg"
   bio: "PhD researcher in human genomics."
+  email: "rn180@leicester.ac.uk"
 
 defaults:
   - scope:
