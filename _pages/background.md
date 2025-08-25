@@ -1,7 +1,8 @@
 ---
-layout: page
 title: "Background"
 permalink: /background/
+layout: single
+author_profile: true
 ---
 
 # My Academic and Professional Background
