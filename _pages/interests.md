@@ -5,5 +5,9 @@ layout: single
 author_profile: true
 ---
 
-# My Interests  
-I have a growing interest in translational and implementation science, striving to bridge the gap between genomics research and clinical practice to improve patient outcomes. I am particularly dedicated to advancing equitable access to genomic medicine and ensuring its integration into healthcare systems worldwide, with a strong emphasis on underrepresented populations. 
+## Interests  
+I have developed a strong interest in the preacticalities of translating genomics advances for precision public health.  
+
+I’m particularly drawn to science communication and policy advocacy as tools to bridge the gap between research, healthcare, and the communities they aim to serve.  
+
+*This page is still under construction.*
