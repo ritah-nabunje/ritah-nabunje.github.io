@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 ---
 
-# My Academic and Professional Background
+## Academic and Professional Background
 My journey has been anything but linear, fuelled by curiosity and inspired by the challenges around me. Growing up in Uganda, I developed a fascination with infectious diseases. I pursued Biomedical Laboratory Technology at Makerere University, where my undergraduate project explored using essential oils to prevent mould and aflatoxin in stored grains. This work felt particularly relevant because high aflatoxin levels in grains have long limited Uganda's agricultural exports.  
 
 While working in the microbiology lab, I discovered bacteriophages - viruses that infect bacteria. One training session introduced me to the incredible world of phage discovery and analysis, sparking my interest in bioinformatics. The power of genomic analysis captured my attention, and after an introductory bioinformatics course, I knew I wanted to build skills in this field. A few online courses later, I was ready for hands-on experience and earned an internship at the [Uganda Virus Research Institute](https://www.uvri.go.ug/) (UVRI) with the [H3ABioNet node](https://www.h3abionet.org/nodes/uvri). Supported by [MUII-Plus](https://www.muii.org.ug/) funding, my internship expanded to a full year, where I participated in bioinformatics training, developed analysis pipelines, and contributed to building galaxy@UVRI, a user-friendly platform for next-generation sequencing data.  
 
 In August 2019, I began my MSc. in Bioinformatics at Makerere University, funded under [BRecA](https://grantome.com/grant/NIH/U2R-TW010672-02) and [MUII-Plus](https://www.muii.org.ug/). Despite the pandemic’s disruptions, I worked on a project funded by the [FibroScHot Consortium](https://www.fibroschot.eu/) to develop a genome-aware SNP-based tool for targeted amplicon sequencing of *Schistosoma mansoni*, implemented in Python. My aim was to support parasite genomic surveillance by creating an efficient, automated tool for SNP-targeting primer design.  
 
+## Looking Ahead
 Now, as a PhD student at the University of Leicester, I am eager to apply what I’ve learned and explore how genomics can improve health outcomes. I’m especially passionate about bridging the gap between research and clinical application and making genomics accessible to underserved communities.
