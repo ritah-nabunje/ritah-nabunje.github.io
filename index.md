@@ -1,3 +1,6 @@
+About me
+=======  
+
 Work
 ------------
 My research focuses on how genetics influence the risk of pulmonary fibrosis (lung scarring) across diverse populations.  
