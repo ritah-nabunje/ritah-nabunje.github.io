@@ -2,6 +2,7 @@
 title: "Background"
 permalink: /background/
 layout: single
+classes: wide
 author_profile: true
 excerpt: Science story
 header:
