@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Training
+title: "Training"
 permalink: /training/
+layout: single
+author_profile: true
 ---
 
 # Training  
