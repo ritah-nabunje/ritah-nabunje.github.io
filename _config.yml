@@ -1,21 +1,17 @@
-
-remote_theme: mmistakes/minimal-mistakes
-
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-include-cache
+  
 title: "Ritah Nabunje"
-description: "Genomics | Research | Advocacy"
+description: "Research, blogs, and science policy reflections"
 email: "rn180@leicester.ac.uk"
 url: "https://ritah-nabunje.github.io"
 baseurl: ""
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
-
 author:
   name: "Ritah Nabunje"
   avatar: "/profile.jpg"
-  bio: "PhD student studying genetic risk for pulmonary fibrosis across diverse populations."
+  bio: "PhD researcher in human genomics."
 
 defaults:
   - scope:
@@ -34,3 +30,5 @@ defaults:
 collections:
   posts:
     output: true
+
+# Load nav from _data/navigation.yml
