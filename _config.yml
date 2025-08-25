@@ -33,5 +33,9 @@ defaults:
 collections:
   posts:
     output: true
+ pages:
+    output: true
+    permalink: /:path/
+
 
 # Load nav from _data/navigation.yml
