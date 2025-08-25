@@ -1,6 +1,8 @@
+Welcome to my (almost, but not so) professional website!  
+
 About me
 =======  
-I am PhD researcher under the Wellcome DTP in Genomic Epidemiology and Public Health Genomics at University of Leicester.  
+I am PhD researcher supported by the Wellcome Doctoral Training Programme in Genomic Epidemiology and Public Health Genomics, at University of Leicester.  
 
 Work
 ------------
