@@ -1,11 +1,10 @@
 ---
-permalink: /
 title: "About Me"
+permalink: /about/
+layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
 
 I’m a PhD researcher in human genomics, studying how genetic risk for pulmonary fibrosis varies across populations.
 
@@ -28,4 +27,5 @@ Contributing to a good cause feels so rewarding.
 For more info
 ------
 See the background page.
+
 
