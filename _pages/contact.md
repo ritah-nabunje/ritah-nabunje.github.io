@@ -1,10 +1,8 @@
 ---
-layout: archive
 title: "Contact"
-permalink: /Contact/
+permalink: /contact/
+layout: single
 author_profile: true
-redirect_from:
-  - /contact
 ---
 
 # Contact
