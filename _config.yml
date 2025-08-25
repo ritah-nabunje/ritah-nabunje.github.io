@@ -1,6 +1,8 @@
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-include-cache
+  - jekyll-paginate-v2
+
   
 title: "Ritah Nabunje"
 description: "Research, interests and reflections"
