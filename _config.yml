@@ -33,7 +33,7 @@ defaults:
 collections:
   posts:
     output: true
- pages:
+  pages:
     output: true
     permalink: /:path/
 
