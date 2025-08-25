@@ -1,10 +1,8 @@
 ---
-layout: archive
 title: "Interests"
-permalink: /Interests/
+permalink: /interests/
+layout: single
 author_profile: true
-redirect_from:
-  - /interests
 ---
 
 # My Interests  
