@@ -1,7 +1,8 @@
 ---
 title: "Blog"
 permalink: /blog/
-layout: blog
+layout: home
+author_profile: true
 pagination:
   enabled: true
   per_page: 3
@@ -9,8 +10,7 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-author_profile: true
 ---
-
 Welcome to my blog! I have a few posts on various topics I find fascinating or just my experiences.
+
 
