@@ -7,6 +7,7 @@ excerpt: "What I do"
 header:
   image: /assets/images/kalamaki_banner.png
   caption: "Photo credit: **Ritah Nabunje**"
+#overlay_filter: 0.5 
 ---
 
 I currently study how genetic risk for pulmonary fibrosis varies across populations.  
