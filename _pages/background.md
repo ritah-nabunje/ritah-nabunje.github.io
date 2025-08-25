@@ -3,9 +3,10 @@ title: "Background"
 permalink: /background/
 layout: single
 author_profile: true
+excerpt: Science story
 header:
   overlay_image: /assets/images/background_header.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+# overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 ## My science journey
