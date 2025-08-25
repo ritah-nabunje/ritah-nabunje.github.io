@@ -1,6 +1,6 @@
 <!-- Biography Section -->
   <div>
-    <h2>Biography</h2>
+    <h2>About me</h2>
     <p>
       My research focuses on how genetic variations influence the risk of pulmonary fibrosis across diverse populations. My work aims to identify both shared and unique genetic contributors to this complex disease, with a focus on addressing disparities in genomic research representation. 
     </p>
