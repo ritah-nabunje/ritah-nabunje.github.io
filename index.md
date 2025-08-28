@@ -1,9 +1,7 @@
 Welcome to my (almost, but not so) professional website!  
 
-I am PhD researcher supported by the Wellcome Doctoral Training Programme in Genomic Epidemiology and Public Health Genomics, at University of Leicester.  
+I am a PhD researcher on the Wellcome Doctoral Training Programme in Genomic Epidemiology and Public Health Genomics at the University of Leicester. My research investigates how genetics influence the risk of pulmonary fibrosis (lung scarring) across diverse populations, with the aim of improving our understanding of the disease aetiology.  
 
-My research focuses on how genetics influence the risk of pulmonary fibrosis (lung scarring) across diverse populations.  
+Beyond research, I am interested in science policy and advocacy, especially to address the unique challenges of implementing genomics in practice.  
 
-Beyond my research, I actively seek opportunities to learn about science policy and advocacy. I am interested in contibuting to work that addresses the unique challenges of implementing genomics.  
-
-In my spare time, I play badminton and enjoy exploring nature by bike.
+In my free time, I enjoy playing badminton and exploring nature by bike.
