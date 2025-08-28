@@ -1,6 +1,6 @@
 ---
-title: "Background"
-permalink: /background/
+title: "Story"
+permalink: /story/
 layout: single
 classes: wide
 author_profile: true
