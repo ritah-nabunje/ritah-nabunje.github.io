@@ -7,8 +7,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Background"
-    url: /background/
+  - title: "Story"
+    url: /story/
   - title: "Research"
     url: /research/
   - title: "Interests"
@@ -17,3 +17,4 @@ main:
     url: /blog/
   - title: "Contact"
     url: /contact/
+
