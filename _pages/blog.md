@@ -11,7 +11,8 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
 ---
-Welcome! I plan to add posts on various topics I find fascinating.
+Welcome! Not much to see here yet, but I am working on it.
+
 
 
 
