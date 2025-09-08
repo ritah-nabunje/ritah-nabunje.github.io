@@ -3,6 +3,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate-v2
   - jekyll-seo-tag
+  - jekyll-sitemap
 
   
 title: "Ritah Nabunje"
